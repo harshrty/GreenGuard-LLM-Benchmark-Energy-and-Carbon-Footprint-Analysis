@@ -1,0 +1,2 @@
+# GreenGuard-LLM-Benchmark-Energy-and-Carbon-Footprint-Analysis
+his project provides a comprehensive benchmark for evaluating the energy consumption (Joules/Token) and estimated carbon footprint (gCO2e/Token) of small-scale Language Models (LLMs) during text generation inference. The goal is to promote Sustainable MLOps by quantifying the computational efficiency of different model architectures.  
